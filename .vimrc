@@ -8,6 +8,7 @@ set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 set expandtab
+set backspace=indent,eol,start
 
 set nobackup
 set timeoutlen=1000 ttimeoutlen=0
