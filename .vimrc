@@ -1,5 +1,6 @@
 syntax on
 filetype indent on
+set nocompatible
 
 set number
 set autoindent
