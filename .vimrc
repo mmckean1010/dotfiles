@@ -28,6 +28,7 @@ Plug 'sjl/badwolf'
 Plug 'morhetz/gruvbox'
 Plug 'romainl/Apprentice'
 Plug 'gosukiwi/vim-atom-dark'
+Plug 'ewilazarus/preto'
 call plug#end()
 
-colorscheme gruvbox
+colorscheme preto
