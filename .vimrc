@@ -1,11 +1,15 @@
 syntax on
 filetype indent on
 set nocompatible
+set title
 
 set number
 set autoindent
 set expandtab
 set hlsearch
+set incsearch
+set ignorecase
+set smartcase
 set cursorline
 set tabstop=4
 set softtabstop=4
