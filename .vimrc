@@ -50,4 +50,4 @@ Plug 'vim-airline/vim-airline'
 
 call plug#end()
 
-colorscheme shadow
+colorscheme gruvbox
